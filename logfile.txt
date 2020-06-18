@@ -1,0 +1,2 @@
+this is  log file
+for .gitignore practice with abhijit singh
